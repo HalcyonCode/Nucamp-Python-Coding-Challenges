@@ -19,8 +19,7 @@ After the while loop ends, use an if statement to check the condition not diamon
 if not diamonds:
 This statement will evaluate as True if the diamonds list is empty. 
 Inside this if statement's body, print the string "There are no more cards to pick."
-
- """
+"""
 
 import random
 
