@@ -11,7 +11,7 @@ Next, use what you know of the input() function to prompt the user to answer the
 Save this value to the dictionary with the key of "Thursday". 
 Below where you used the input() function, call the print_total_snowfall() function once again with the same argument.
 Save and run the code. The output should look similar to this:
- """
+"""
 
 
 inches_snow = {"Monday": 2, "Tuesday": 4, "Wednesday": 5}
